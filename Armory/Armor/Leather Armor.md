@@ -1,7 +1,7 @@
 Weight:+1/6
 Noise:+0
-Damage Threshold:1
-Poise Bonus:+1
+Damage Threshold:
+Poise Bonus:+
 Durability:2
 
 Full Set
